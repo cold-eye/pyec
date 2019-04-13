@@ -1,0 +1,5 @@
+pypinyin==0.35.2
+torch==1.0.1
+kenlm==0.0.0
+pytorch-pretrained-bert==0.6.1 
+
