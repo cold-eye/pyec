@@ -16,6 +16,10 @@ from cn_corrector import Corrector
 c = Corrector(special_file="movies.txt")
 print(c.correct_special_word("三傻大闹宝莱屋"))
 ```
+结果：
+```python
+三傻大闹宝莱坞
+```
 
 
 
